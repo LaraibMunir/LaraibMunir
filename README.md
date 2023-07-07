@@ -1,7 +1,7 @@
 [![MasterHead](https://images.app.goo.gl/R7C7XdqLk8yatfRf6)]
 <h1 align="center">Hi 👋, I'm Laraib Munir</h1>
 <h3 align="center">A passionate android developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?client=ms-android-transsion-infinix-rev1&sxsrf=AB5stBhn8B_CcKQLjvybKDU4tzZSNCLFuw:1688742134360&q=animated+coding+gif+dribble&tbm=isch&sa=X&ved=2ahUKEwiTqaTY7vz_AhVwU6QEHRntCRQQ0pQJegQIBxAB&biw=360&bih=664&dpr=2#imgrc=vhQcl-r0Lm1nGM">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laraibmunir&label=Profile%20views&color=0e75b6&style=flat" alt="laraibmunir" /> </p>
 
