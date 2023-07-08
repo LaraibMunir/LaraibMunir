@@ -1,5 +1,5 @@
-[![MasterHead](https://images.app.goo.gl/R7C7XdqLk8yatfRf6)]
-![Design and Development](https://images.app.goo.gl/26eKKVcLUoedqtxp7)
+[![MasterHead]([https://technocation.pk/wp-content/uploads/2022/10/android-development-768x284.jpg])]
+![Design and Development](https://technocation.pk/wp-content/uploads/2022/10/android-development-768x284.jpg)
 <h1 align="center">Hi 👋, I'm Laraib Munir</h1>
 <h3 align="center">A passionate android developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
