@@ -1,4 +1,3 @@
-[![MasterHead]([https://technocation.pk/wp-content/uploads/2022/10/android-development-768x284.jpg])]
 ![Design and Development](https://technocation.pk/wp-content/uploads/2022/10/android-development-768x284.jpg)
 <h1 align="center">Hi 👋, I'm Laraib Munir</h1>
 <h3 align="center">A passionate android developer from Pakistan</h3>
